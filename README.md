@@ -1,4 +1,4 @@
-#ALL MACROS WILL NOT CURRENTLY WORK WITH 2.2!
+#ALL MACROS WILL NOT CURRENTLY WORK WITH 2.2!(Yet)
 
 # MegaHack-Macros
 My collection of MegaHack macros found in my videos. 
