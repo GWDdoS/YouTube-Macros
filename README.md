@@ -1,4 +1,4 @@
-*So Megahack 2.1 macros will never work with 2.2 so I have moved away from Megahack mainly because the accuracy of the macros were insanely horrible. I spent about 89atts for a good Phobos Macro, but I could never get one that worked. I am now using YBot as it's far more consistent and so far, no macros have broken. If you want Ybot or MegaHack join the discord! `ServerLinkHere` *
+*So Megahack 2.1 macros will never work with 2.2 so I have moved away from Megahack mainly because the accuracy of the macros were insanely horrible. I spent about 89atts for a good Phobos Macro, but I could never get one that worked. I am now using YBot as it's far more consistent and so far, no macros have broken. If you want Ybot or MegaHack join the discord! `ServerLinkHere`*
 
 
 ## YouTube Macros
