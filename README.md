@@ -2,7 +2,7 @@
 
 
 ## YouTube Macros
-My collection of Macros found in my videos and some others from other people
+My collection of Macros found in my videos and some others from other people **[Showcase](https://www.youtube.com/@GWDdoS?sub_conformation=1)**.
 Feel free to use them just please give me credit and the people that made the macro. 
 
 ## Installation Process (New)
