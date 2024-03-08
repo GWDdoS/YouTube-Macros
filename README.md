@@ -14,7 +14,7 @@ __Installation(New)__
   4. Make sure the copied files do not contain files like "hacker.dll" or something like that.
   5. Go to steam and add an external game. Chose the path to the new GD exe in the folder of GDYBot
   6. Run the installer of YBOT change the installation path to the folder and the GD.EXE.
-  7. Run GD thought steam. If you need help join the ` **[YBot Discord](www.discord.gg/YBot)** `.
+  7. Run GD thought steam. If you need help join the **[YBot Discord](www.discord.gg/YBot)**.
   8. After GD has run open the folder (GDYBot) move the macros into the macros folder 
   9. NOTE YOU CAN NOT USE YBOT WITH MEGAHACK OR GEODE (Yet)
 
